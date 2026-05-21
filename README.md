@@ -44,13 +44,9 @@
 
 ## 📸 Screenshots
 
-> *(Coming Soon)*
-> 
-> <div align="center">
->   <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
->   <img src="https://via.placeholder.com/250x500.png?text=Calendar+View" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
->   <img src="https://via.placeholder.com/250x500.png?text=Stats+Dashboard" width="200"/>
-> </div>
+<div align="center">
+  <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/>
+</div>
 
 ## 🚀 Getting Started
 
