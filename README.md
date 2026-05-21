@@ -94,5 +94,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <b>Built with ❤️ by <a href="https://github.com/Ragit09">Ragit</a></b>
+  <b>Built with ❤️ by <a href="https://github.com/Ragit09">DhezetStudio</a></b>
 </div>
